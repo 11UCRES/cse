@@ -1,0 +1,15 @@
+SDLC stands for Software Development Life Cycle. It is a process that software development teams use to plan, design, develop, test, and maintain software. The SDLC model provides a framework for the software development process, which typically consists of the following stages:
+
+Requirements gathering: This stage involves understanding the customer's needs and defining the features and functionality that the software must have.
+
+Design: In this stage, the software architecture is designed, including the software components and their relationships.
+
+Development: The actual coding and implementation of the software takes place in this stage.
+
+Testing: The software is tested for functionality, performance, and reliability in this stage.
+
+Deployment: The software is released to the customer or end-user in this stage.
+
+Maintenance: After the software has been deployed, any issues that arise are addressed, and the software is updated or improved as needed.
+
+There are various SDLC models, including the Waterfall model, Agile model, Spiral model, and V-Model. Each model has its advantages and disadvantages and is suitable for different types of projects.
